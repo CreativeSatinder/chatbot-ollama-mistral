@@ -39,7 +39,10 @@ cd chatbot-ollama-mistral
 
 ---
 
-## 2. Install Dependencies
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repo
+
 bash
 Copy
 Edit
