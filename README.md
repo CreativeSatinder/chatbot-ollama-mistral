@@ -31,26 +31,7 @@ A fully functional chatbot UI built with **React**, powered by **Ollama** runnin
 
 ## 🛠️ Setup Instructions
 
-## 🔧 Features
-
-- 🤖 Chat interface using React + TypeScript
-- 🧠 Local LLM responses using [Ollama](https://ollama.com/)
-- 🔁 Real-time streaming of AI responses
-- 🌐 Fully offline chatbot (no OpenAI API key required)
-- 📂 Easy to modify, extend, or integrate
-
----
-
-## 🖥️ Tech Stack
-
-- React + TypeScript
-- Ollama (local LLM runtime)
-- Mistral model (7B parameter open-source LLM)
-- CSS (custom-styled interface)
-
----
-
-### 1. Clone the Repo
+## 1. Clone the Repo
 
 ```bash
 git clone https://github.com/creativesatinder/chatbot-ollama-mistral.git
@@ -58,7 +39,7 @@ cd chatbot-ollama-mistral
 
 ---
 
-### 2. Install Dependencies
+## 2. Install Dependencies
 
 bash
 Copy
