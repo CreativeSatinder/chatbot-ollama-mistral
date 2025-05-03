@@ -38,12 +38,13 @@ git clone https://github.com/creativesatinder/chatbot-ollama-mistral.git
 cd chatbot-ollama-mistral
 
 
-2. Install Dependencies
+### 2. Install Dependencies
 bash
 Copy
 Edit
 npm install
-3. Install Ollama (if not already installed)
+
+### 3. Install Ollama (if not already installed)
 Follow instructions at: https://ollama.com/download
 
 Start the Ollama server:
@@ -54,7 +55,7 @@ Edit
 ollama run mistral
 This will download the Mistral model and keep the server running locally at http://localhost:11434.
 
-4. Start the Chatbot App
+### 4. Start the Chatbot App
 bash
 Copy
 Edit
