@@ -34,5 +34,5 @@ A fully functional chatbot UI built with **React**, powered by **Ollama** runnin
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/chatbot-ollama-mistral.git
+git clone https://github.com/creativesatinder/chatbot-ollama-mistral.git
 cd chatbot-ollama-mistral
