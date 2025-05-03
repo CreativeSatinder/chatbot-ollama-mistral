@@ -38,13 +38,13 @@ git clone https://github.com/creativesatinder/chatbot-ollama-mistral.git
 cd chatbot-ollama-mistral
 
 
-### 2. Install Dependencies
+## 2. Install Dependencies
 bash
 Copy
 Edit
 npm install
 
-### 3. Install Ollama (if not already installed)
+## 3. Install Ollama (if not already installed)
 Follow instructions at: https://ollama.com/download
 
 Start the Ollama server:
