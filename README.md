@@ -37,12 +37,15 @@ A fully functional chatbot UI built with **React**, powered by **Ollama** runnin
 git clone https://github.com/creativesatinder/chatbot-ollama-mistral.git
 cd chatbot-ollama-mistral
 
+---
 
 ## 2. Install Dependencies
 bash
 Copy
 Edit
 npm install
+
+---
 
 ## 3. Install Ollama (if not already installed)
 Follow instructions at: https://ollama.com/download
